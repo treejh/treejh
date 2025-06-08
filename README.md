@@ -38,7 +38,7 @@
 |:--|:--|:--|
 | **BookTree** | 독서 기록 공유 플랫폼 | [Notion 소개](https://smiling-cornflower-588.notion.site/BookTree-1f4faae9612381d48ec6e916e6e2bda7?source=copy_link) |
 | **JUSEYO** | 재고 관리 플랫폼 | [Notion 소개](https://smiling-cornflower-588.notion.site/JUSEYO-20cfaae961238046ab28c8e4ad12d3cd?source=copy_link) |
-| **MOT** | 숙소 예약 플랫폼 | [Notion 소개](https://smiling-cornflower-588.notion.site/MOT-1f4faae9612381c0af44d3b6845d06dc?source=copy_link) |
+| **MOT** | 숙소 예약 플랫폼 | [Notion 소개](https://deserted-thought-336.notion.site/a963dc701ffa43ffb418e0d2a1b8829d) |
 | **Synergy** | 스터디 모집 플랫폼 | [Notion 소개](https://smiling-cornflower-588.notion.site/IT-1f4faae961238158824dd3b17274cb3b?source=copy_link) |
 
 <br/>
