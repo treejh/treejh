@@ -66,14 +66,16 @@
 
 <br/>
 
+<br/>
+
 
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=treejh&show_icons=true&theme=default&bg_color=60,f2e3e3,ffffff&title_color=000000&text_color=000000" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=treejh&layout=compact&bg_color=60,f2e3e3,ffffff&title_color=000000&text_color=000000" />
+<img src="https://github-readme-stats.vercel.app/api?username=treejh&show_icons=true&theme=default&bg_color=60,f2e3e3,ffffff&title_color=000000&text_color=000000" width="420" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=treejh&layout=compact&bg_color=60,f2e3e3,ffffff&title_color=000000&text_color=000000" width="320" />
+
 
 </div>
