@@ -1,6 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6DB33F&height=150&section=header"/>
-
-
 <div align="center">
 
 # 👋 안녕하세요, 백엔드 개발자 **장지현**입니다!
