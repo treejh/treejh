@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=JIHYUN's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
+
 <div align="center">
 
 # 👋 안녕하세요, 백엔드 개발자 **장지현**입니다!
