@@ -64,6 +64,17 @@
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 </a>
 
+
+<br/>
+
+
+<p align="center">
+  <a href="https://www.jihyun.booktri.site/" target="_blank" style="text-decoration: none; font-size: 48px;">
+    🙋🏻‍♀️ 포트폴리오 
+  </a>
+</p>
+
+
 </div>
 
 
