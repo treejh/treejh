@@ -7,6 +7,15 @@
 문제를 해결하는 데 집중하며, 끊임없이 배우고 성장하는 개발자가 되고자 합니다.  
 성장을 기록하고 공유하는 것을 좋아하며, 효율적이고 확장 가능한 서비스를 만들기 위해 고민합니다.
 
+
+
+<p align="center">
+  <a href="https://www.jihyun.booktri.site/" target="_blank" style="text-decoration: none; font-size: 48px;">
+    🙋🏻‍♀️ 포트폴리오 
+  </a>
+</p>
+
+
 </div>
 
 <br/>
@@ -66,13 +75,6 @@
 
 
 <br/>
-
-
-<p align="center">
-  <a href="https://www.jihyun.booktri.site/" target="_blank" style="text-decoration: none; font-size: 48px;">
-    🙋🏻‍♀️ 포트폴리오 
-  </a>
-</p>
 
 
 </div>
