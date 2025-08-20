@@ -9,13 +9,6 @@
 
 
 
-<p align="center">
-  <a href="https://www.jihyun.booktri.site/" target="_blank" style="text-decoration: none; font-size: 48px;">
-    🙋🏻‍♀️ 포트폴리오 
-  </a>
-</p>
-
-
 </div>
 
 <br/>
